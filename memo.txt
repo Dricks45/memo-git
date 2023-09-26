@@ -1,0 +1,13 @@
+git clone + lien ssh = recupere le depot github sur l'ordi
+
+cd pour entrer dans le depot qui viend etre clone
+
+touch pour creer un fichier
+
+modifier et travailler sur le fichier que je veux
+
+important tourjour ctrl+s a chaque modif
+
+etape a faire : renvoyer sur github
+
+abuser de git status
