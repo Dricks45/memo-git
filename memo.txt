@@ -11,3 +11,15 @@ important tourjour ctrl+s a chaque modif
 etape a faire : renvoyer sur github
 
 abuser de git status
+
+1/ stage tout les fichier = git add .
+2/ toujour mettre un commit = git commit -m "message du commit"
+3/ pour renvoyer sur github = git push
+
+---- POUR RENVOYER SUR MA BRANCHE = git push origin "nom de la branche"
+
+pour creer une branche = git branch test_branch
+                         git switch test_branch
+
+                         racourci de la commande 
+                         git switch -c test_branch
